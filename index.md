@@ -1,436 +1,124 @@
 
+---
+layout: default
+mathjax: true
+title: DL journal and discussion club
+---
+<h3>DL journal and discussion club</h3>
 
-# Biostatistics in Fall 2018
+<ul>
+	<li/> We all participate active in the sessions and (roughly) read the article or other material that should be discussed before
+  <li/> We do not envision a talk with slides but want discuss together the article/topic
+	<li/> The discussio leader does not need to be an expert! 
+	<li/> Discussions and all kind of questions (also stupid ones) are welcome - its actually the reason to meet!!
+  <li/>Everybody who wants to participate must also present once 
+	<li/> The room will be announced via e-mail and will be on the SoE campus 
+	<li/> You might bring your lunch with you
+</ul>
+<br>
+<em> 
+Active contributions are required!  Please add your chosen paper or topic of interest together with a date in the following
+  <a href="https://docs.google.com/spreadsheets/d/1nvDV3tVnD2YjbOf81les5Ef9hwEc7_PrcLruXVaHXJg/edit?usp=sharing">Topic_dates_list</a>
+  <li/>Ideally, the topics connect to DL and are not too complicated, so that we all can read through the material before hand.
+  <li/>You can also put in your name with “tba” topics and decide shortly before the data on the topic you want to discuss. 
+<li/>	The topic with some links or info should be at latest announced one week before the meeting. 
+  <li/>If Wednesday is not possible four you please suggest another day over lunch (or later afternoon).
+  <li/>You can join the club by putting your name and a topic in the list above.
+  In case of any question please feel free to contact me (sick@zhaw.ch) if 
+</em>
 
-The course deals with simple quantitative and graphical as well as more complex methods of biostatistics. Contents: Descriptive statistics, probability theory and design of experiments, testing hypotheses, confidence intervals, correlation, simple and multiple linear regression, classification and prediction, diagnostic tests, measurement of agreement.
 
-Lectures take place on Tuesdays from 10:10-11:45 in ETH HG room E21.
 
-Exercises take place on Tuesdays from 16:15-17:00 in ETH HG room D7.1.
 
-For doing the hands-on part on your own computer you should install R and RStudio (see first exercise).
 
-The exam will be a 45 minute MC quizz. Date and room will be announced asap.
+<h3>Topics</h3>
+<table border="0">
+<tr>
+  <td> When </td>
+  <td> Discussion Lead   </td>
+  <td> Title  </td>
+  <td> Material </td>
+</tr>
+	
+<tr>
+  <td> 19. July 2018 </td>
+  <td> tba </td>
+  <td> tba </td>
+  <td> 
+   Material: tba  
+  </td>
+</tr>
 
-The currently planned topics are summarized in the <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/formalia_public/semesterplan15092018.pdf"> semester plan</a>.
-  
+<tr>
+  <td> 19. June 2018 </td>
+  <td> tba </td>
+  <td> tba</td>
+  <td> 
+   Material: tba  
+  </td>
+</tr>
+	
+<tr>
+  <td> 29. May 2018 </td>
+  <td> tba </td>
+  <td> tba </td>
+  <td>
+    Material: tba
+  </td>
+</tr>
 
-## Material for Lectures and Exercises  
-<!--  
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Note on table no empty lines / Bitte keine Leerzeilen 
-Otherwise the rendering is broken
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
--->
-<table  class="zebra" width="width:100%">
-  <tr>
-      <th style="text-align: left;" width="%5">Week</th>
-      <th style="text-align: left;" width="%5">Date</th>
-      <th style="text-align: left;" width="%65">Topics and Lectures notes</th>
-      <th style="text-align: left;" width="%20">Exercises</th>
-      <th style="text-align: left;" width="%15">Literature</th>
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  week 1 -->
-    <!--  ------------------------------------- -->
-    <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      01
-     </td>  
-         <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 18.9.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-      introduction / basic terms / datatypes / uni-variate graphical displays
-       <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_01_presented.pdf"> slides_01_presented</a>
-     </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0.pdf"> ex_01</a> | 
-            <a href='https://github.com/bsick/Biostatistics-Fall-2018/tree/master/exercises/Exercise0_solution.pdf'> ex_01_solution</a> 
-     </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch1_introduction_to_R.pdf"> HSAUR3_chapter01</a> 
-        </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 2 -->
-    <!--  ------------------------------------- -->
-      <tr>
-            <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      02
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 18.9.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/slides/BS_slides_02_plan.pdf"> slides_02_plan</a>
-    </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-     </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch2_graphical_display.pdf"> HSAUR3_chapter02</a>  
-      </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 3 -->
-    <!--  ------------------------------------- -->
-     <tr>
-      <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      03
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 02.10.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-     </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-     </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/IPSUR-vignette-distributions-week3.pdf"> IPSUR-distributions</a> 
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 4 -->
-    <!--  ------------------------------------- -->
-             <tr>
-      <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      04
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 09.10.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-     </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch4_simple_inference.pdf"> HSAUR3_chapter04</a> 
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 5 -->
-    <!--  ------------------------------------- -->
-                   <tr>
-      <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      05
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 16.10.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-     </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-     </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            see last week 
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 6 -->
-    <!--  ------------------------------------- -->
-                           <tr>
-     <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      06
-     </td>  
-     <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 23.10.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-     </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-     </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch4_simple_inference.pdf"> HSAUR3_chapter04</a> 
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 7 -->
-    <!--  ------------------------------------- -->
-                                <tr>
-     <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      07
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 30.10.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-     </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-    </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/statistics.notes.diagnostic.tests.pdf"> statistics.notes.diagnostic.tests</a> 
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 8 -->
-    <!--  ------------------------------------- -->
-                                       <tr>
-      <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      08
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 06.11.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-    </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-     </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch6_linear_regression.pdf"> HSAUR3_chapter06</a> 
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 9 -->
-    <!--  ------------------------------------- -->
-                                               <tr>
-     <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      09
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 13.11.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-    </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-    see last week
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 10 -->
-    <!--  ------------------------------------- -->
-                                                     <tr>
-      <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      10
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 20.11.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-     </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-     </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-        see last week
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 11 -->
-    <!--  ------------------------------------- -->
-                                                          <tr>
-     <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      11
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 27.11.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-    </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-    </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch7_logistic_regression_glm.pdf"> HSAUR3_chapter07</a> 
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 12 -->
-    <!--  ------------------------------------- -->
-                                                                  <tr>
-     <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      12
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 04.12.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-    </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-     </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch9_tree_modes.pdf"> HSAUR3_chapter09</a> 
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 13 -->
-    <!--  ------------------------------------- -->
-      <tr>
-     <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      13
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 11.12.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-    </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-    </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-            see last week
-     </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
-    <!--  ------------------------------------- -->
-    <!--  Woche 14 -->
-    <!--  ------------------------------------- -->
-     <tr>
-     <!-- week  -->
-    <td style="text-align: left;" valign="top">
-      14
-     </td>  
-    <!-- Date -->
-    <td style="text-align: left;" valign="top">
-      Tuesday 18.12.2018
-     </td>  
-     <!-- Lectures -->
-  	<td style="text-align: left;" valign="top"> 
-        <a href=""> XX</a>
-    </td>  
-    <!--  Exercises  -->
-    <td style="text-align: left;" valign="top">
-            <a href=""> XX</a> | 
-            <a href=""> XX</a> 
-     </td>  
-    <!--  Lieterature  -->
-    <td style="text-align: left;" valign="top">
-      <a href="https://github.com/bsick/Biostatistics-Fall-2018/tree/master/literature/HSAUR3_ch11_survival_analysis.pdf"> HSAUR3_chapter11</a> 
-    </td>  
-        <!-- 
-      </ul>
-    </td>   
-  </tr>
+<tr>
+  <td> 29. November 2017 </td>
+  <td> tba </td>
+  <td> tba </td>
+  <td>
+    Material: tba
+  </td>
+</tr>
+
+<tr>
+  <td> 29. November 2017 </td>
+  <td> tba </td>
+  <td> tba </td>
+  <td>
+    Material: tba
+  </td>
+</tr>
+
+<tr>
+  <td> tba </td>
+  <td> tba </td>
+  <td>  tba  </td>
+  <td>
+    Material: tba
+  </td>
+</tr>
+
+<tr>
+  <td> tba </td>
+  <td> tba </td>
+  <td> tba</td>
+  <td> 
+      Material: tba
+  </td>
+</tr>
+
+<tr>
+  <td> 2. November 2017 </td>
+  <td> tba  </td>
+  <td> tba  </td>
+  <td>    
+    Material: tba <a href=""></a> 
+  </td>
+</tr>
+
+<tr>
+  <td> 19. October 2017 </td>
+  <td> tba </td>
+  <td> tba  </td>
+  <td> Material: tba </td>
+</tr>
+
+
+</table>
+
