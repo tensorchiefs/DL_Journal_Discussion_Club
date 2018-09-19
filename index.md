@@ -1,10 +1,5 @@
 
----
-layout: default
-mathjax: true
-title: DL journal and discussion club
----
-<h3>DL journal and discussion club</h3>
+<h3>Mode of the DL journal and discussion club</h3>
 
 <ul>
 	<li/> We all participate active in the sessions and (roughly) read the article or other material that should be discussed before
@@ -17,19 +12,14 @@ title: DL journal and discussion club
 </ul>
 <br>
 <em> 
-Active contributions are required!  Please add your chosen paper or topic of interest together with a date in the following
+Active contributions are required!  Please add your chosen paper or topic of interest together in the following
+	
   <a href="https://docs.google.com/spreadsheets/d/1nvDV3tVnD2YjbOf81les5Ef9hwEc7_PrcLruXVaHXJg/edit?usp=sharing">Topic_dates_list</a>
-  <li/>Ideally, the topics connect to DL and are not too complicated, so that we all can read through the material before hand.
-  <li/>You can also put in your name with “tba” topics and decide shortly before the data on the topic you want to discuss. 
-<li/>	The topic with some links or info should be at latest announced one week before the meeting. 
-  <li/>If Wednesday is not possible four you please suggest another day over lunch (or later afternoon).
-  <li/>You can join the club by putting your name and a topic in the list above.
-  In case of any question please feel free to contact me (sick@zhaw.ch) if 
+
+Ideally, the topics is connected to DL and are not too complicated, so that we all can read through the material beforehand.
+You can also put in your name with “tba” topics and decide shortly before the data on the topic you want to discuss, but at latest one week before the meeting the topic with some material links or info should be announced. 
+You can join the club by putting your name and a topic in the list above. If Wednesday is not possible four you please suggest another day over lunch (or later afternoon). In case of any question please feel free to contact me (sick@zhaw.ch).
 </em>
-
-
-
-
 
 <h3>Topics</h3>
 <table border="0">
