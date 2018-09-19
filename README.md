@@ -1,4 +1,4 @@
-## Webpage for Biostatistics in Fall 2018
+## Webpage for DL Journal and Discussion Club
 
- https://bsick.github.io/Biostatistics-Fall-2018/
+https://tensorchiefs.github.io/DL_Journal_Discussion_Club/
 
