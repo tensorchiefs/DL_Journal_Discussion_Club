@@ -9,8 +9,7 @@
   <li/>Everybody who wants to participate must also once suggest a topic and lead the discussion 
 	<li/> You might bring your lunch with you
 </ul>
-<br>
-<em> 
+
 Active contributions are required!  
 Please add your chosen paper or topic in the following
 	
@@ -19,4 +18,3 @@ Please add your chosen paper or topic in the following
 Ideally, the topics is connected to DL and are not too complicated, so that we all can read through the material beforehand.
 You can also put in your name with “tba” topics and decide shortly before the date on the topic you want to discuss, but at latest one week before the meeting the topic with some material links or info should be announced. 
 You can join the club by putting your name and a topic in the list above. If Wednesday is not possible four you please suggest another day over lunch (or later afternoon) - you can organize a room and put it in the table, or I will do it for you. Every discussion leader is asked to send out an e-mail ~1 week before the meeting (e-mails are in the list above). It is clear that not all can make it every time but the event lives from our active participation. In case of any question please feel free to contact me (sick@zhaw.ch).
-</em>
