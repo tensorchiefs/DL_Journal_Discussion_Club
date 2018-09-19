@@ -6,7 +6,7 @@
   <li/> We do not envision a talk with slides (that is <a href="https://tensorchiefs.github.io/bbs/">bbs</a>) but want to discuss together the suggested article/topic
 	<li/> The discussion leader does not need to be an expert! 
 	<li/> Discussions and all kind of questions (also stupid ones) are welcome - its actually the reason to meet!!
-  <li/>Everybody who wants to participate must also present once 
+  <li/>Everybody who wants to participate must also once suggest a topic and lead the discussion 
 	<li/> You might bring your lunch with you
 </ul>
 <br>
