@@ -11,7 +11,8 @@
 </ul>
 <br>
 <em> 
-Active contributions are required!  Please add your chosen paper or topic of interest together in the following
+Active contributions are required!  
+Please add your chosen paper or topic in the following
 	
   <a href="https://docs.google.com/spreadsheets/d/1nvDV3tVnD2YjbOf81les5Ef9hwEc7_PrcLruXVaHXJg/edit?usp=sharing">Topic_dates_list</a>
 
