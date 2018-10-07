@@ -11,10 +11,12 @@
 </ul>
 
 
-  <a href="https://docs.google.com/spreadsheets/d/1nvDV3tVnD2YjbOf81les5Ef9hwEc7_PrcLruXVaHXJg/edit?usp=sharing">Topic_dates_list</a>
+ <a href="https://docs.google.com/spreadsheets/d/1nvDV3tVnD2YjbOf81les5Ef9hwEc7_PrcLruXVaHXJg/edit?usp=sharing">**Topic_dates_list**</a>
 
 Ideally, the topics is connected to DL and are not too complicated, so that we all can manage to read through the suggested material (otherwise it suites better for a <a href="https://tensorchiefs.github.io/bbs/">bbs</a> which is also good).
 
-Feel free to extent the list by dates or change the dates and put-in your name with “tba” topics and decide spontanously on the topic. Ideally, the discussion leader sends out an e-mail ~1 week before the meeting (e-mails are in the list above) and organizes a room, but you can also ask me to do that for you. 
+Feel free to extent the list by dates or change the dates and put-in your name with “tba” topics and decide spontanously on the topic. Ideally, the discussion leader sends out an e-mail ~1 week before the meeting (e-mails are in the google docs list above). 
+
+In fall semester 2018 we meet in the room **TB 426**.  
  
 It is clear that not all can make it every time but the event lives from our active participation. In case of any question please feel free to contact me (sick@zhaw.ch).
