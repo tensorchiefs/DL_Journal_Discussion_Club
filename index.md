@@ -3,8 +3,8 @@
 
 <ul>
 	<li/>  We want to meet ~ every 1-3 weeks to discuss a DL publication or other DL topics. In fall semester 2018 we meet usually Thursday 12-13 in TB 426 (check back in topics_dates_list below).  
-  <li/> We do not envision a talk with slides (that is <a href="https://tensorchiefs.github.io/bbs/">bbs</a>) but want a discussion between all participants which requires that we all read (roughly) through the material before the meeting
-	<li/> One person suggests the topic and leads the session and reads the paper more carefully but also does not need to be an expert! 
+  <li/> We do not envision a presentation/talk with slides (that is <a href="https://tensorchiefs.github.io/bbs/">bbs</a>) but want a discussion between all participants which requires that we all read (roughly) through the material before the meeting
+	<li/> One person suggests the topic and starts the discussion with a short summary (~5min) and then leads the discussion where we discuss our questions and thoughts about the paper. The discussion leader does not need to be an expert, but reads the paper carefully. 
 	   <li/>The discussion leader provides links to the material/article one week before the meeting 
   <li/>Everybody who wants to participate must also once suggest a topic and lead the discussion (or do a <a href="https://tensorchiefs.github.io/bbs/">bbs</a>)  - please put your name on the list below:
 
