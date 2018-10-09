@@ -10,7 +10,7 @@
 
 </ul>
 
- <a href="https://docs.google.com/spreadsheets/d/1nvDV3tVnD2YjbOf81les5Ef9hwEc7_PrcLruXVaHXJg/edit?usp=sharing">**Topic_dates_list**</a>
+ <a href="https://docs.google.com/spreadsheets/d/1nvDV3tVnD2YjbOf81les5Ef9hwEc7_PrcLruXVaHXJg/edit?usp=sharing">**Participants_Topics_Dates_list**</a>
 
 Ideally, the topics is connected to DL and are not too complicated, so that we all can manage to read through the suggested material (otherwise it suites better for a <a href="https://tensorchiefs.github.io/bbs/">bbs</a> which is also good).
 
