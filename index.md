@@ -3,8 +3,8 @@
 
 <ul>
 	<li/>  The focus is on the interactive discussion of publication, blogs or topics around Deep Learning, probabilistic prediction models, and causality (or other topics of general interest). During corona-crisis we meet via zoom or MS teams.  
-	<li/>  All kind of **stupid questions are very welcome and even necessary** to learn as much as possible. We aim to discuss as well details, like mathematical and technical aspects, as high level implications of the paper. 
-	<li/>  The only rule is that \bf{we all read the paper before meeting}. 
+	<li/>  All kind of <b>stupid questions are very welcome</b> and even necessary to learn as much as possible. We usually want to  discuss first details, like questions on mathematical and technical aspects, before turning to high level implications of the paper. 
+	<li/>  The only rule is that <b>we all read the paper before meeting</b>. 
 	<li/> One person suggests the topic and starts the discussion with a short summary (~5min) and then leads the discussion. 
 	   <li/>The discussion leader provides links to the material/article one week before the meeting and write an e-mail to all listed participants. The role of the discussion leader is in each meeting taken by somebody else (see linked spreadsheet below)
   <li/>If you want to participate, please put your name in the linked spreadsheet below:
