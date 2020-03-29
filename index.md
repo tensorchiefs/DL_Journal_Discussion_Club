@@ -14,6 +14,4 @@
 
 Ideally, the topics is not too complicated, so that we all can manage to read through the suggested material (otherwise it suites better for a <a href="https://tensorchiefs.github.io/bbs/">bbs</a> which is also good).
 
-Feel free to extent the list by dates or change the dates and put-in your name with “tba” topics and decide spontanously on the topic. Ideally, the discussion leader sends out an e-mail ~1 week before the meeting (e-mails are in the google docs list above). 
- 
 It is clear that not all can make it every time but the event lives from our active participation. In case of any question please feel free to contact me (sick@zhaw.ch).
